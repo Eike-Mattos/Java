@@ -2,7 +2,7 @@ package condicional;
 
 import java.util.Scanner;
 
-public class fibonacci {
+public class Fibonacci {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,6 +12,7 @@ public class fibonacci {
 		int numero1 = 0;
 		int numero2 = 1;
 		int cont, res;
+		
 		System.out.println(numero2);
 		for(cont = 2; cont<=limite; cont++) {
 			res = numero1 + numero2;
