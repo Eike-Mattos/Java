@@ -10,8 +10,8 @@ public class FutebolCampeonato {
 	      int qtdeJogadores = 11;
 	        
 	      int i, j;
-	        
-	        int idade;
+	        	
+		int idade;
 	        double altura, peso;
 	        
 	        float mediaIdade = 0, mediaAltura = 0;
